@@ -40,5 +40,5 @@ between features.
 
 
 ## Methodlogy
-
+![Methodlogy](https://github.com/mmahesh09/Credit-Card-Fraud-Detection/blob/1175e223b7575c4e05876b83336da37f9c7f1a9c/methodlogy.jpg)
 
