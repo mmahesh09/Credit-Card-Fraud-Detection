@@ -34,7 +34,7 @@ between features.
 
 ## Tech Stack 💻
 
-**Language:** Python
+**Language:** Python🐍
 
 **Libraries used:** Numpy, Pandas, Matplotlib, Scikit-learn
 
