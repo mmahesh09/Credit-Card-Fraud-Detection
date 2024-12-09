@@ -25,11 +25,15 @@ The dataset contains 10,000 entries with six columns: **Profession**, **Income**
 - **Income** (numerical) shows the annual income.
 - **Credit_card_number**, **Expiry**, and **Security_code** are sensitive details associated with credit card information.
 
-- ## Tech Stack 💻
+- **Fraud** (binary) is the target variable indicating whether fraud occurred (1 for fraud, 0 for no fraud).
+
+The dataset appears to focus on detecting fraudulent transactions or behavior based on personal and financial details. It contains no missing values, and the data types are correctly assigned. However, the 
+presence of sensitive information like credit card numbers suggests the need for privacy-preserving analysis. Further exploration is required to understand the distribution of fraud cases and relationships 
+between features.
+
+
+## Tech Stack 💻
 
 **Language:** Python
 
 **Libraries used:** Numpy, Pandas, Matplotlib, Scikit-learn
-- **Fraud** (binary) is the target variable indicating whether fraud occurred (1 for fraud, 0 for no fraud).
-
-The dataset appears to focus on detecting fraudulent transactions or behavior based on personal and financial details. It contains no missing values, and the data types are correctly assigned. However, the presence of sensitive information like credit card numbers suggests the need for privacy-preserving analysis. Further exploration is required to understand the distribution of fraud cases and relationships between features.
