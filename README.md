@@ -37,3 +37,8 @@ between features.
 **Language:** Python
 
 **Libraries used:** Numpy, Pandas, Matplotlib, Scikit-learn
+
+
+## Methodlogy
+
+
