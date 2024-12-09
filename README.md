@@ -1,5 +1,5 @@
 
-![Logo](https://www.canva.com/design/DAGY0ejhsGA/udjGDCNT9INh_fTUakiFKw/edit?utm_content=DAGY0ejhsGA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Logo](new_folder/Credit-Card fraud detection.png)
 
 # Credit Card Fraud Detection: CardRaksha 💳
 
