@@ -42,3 +42,27 @@ between features.
 ## Methodlogy
 ![Methodlogy](https://github.com/mmahesh09/Credit-Card-Fraud-Detection/blob/1175e223b7575c4e05876b83336da37f9c7f1a9c/methodlogy.jpg)
 
+From this figure the Methodology 
+1. Collecting Credit Card Data Sets
+The first step involves gathering a comprehensive dataset of credit card transactions. This dataset includes various features such as the profession of the cardholder, annual income, credit card number, expiry date, security code, and whether the transaction was fraudulent or not.
+
+2. Preprocessing Missing Values
+Next, we address any missing values in the dataset. Ensuring complete and accurate data is crucial for building an effective fraud detection model. Techniques such as imputation or removing missing values are used to prepare a clean dataset.
+
+3. Apply Oversampling Techniques
+Credit card fraud datasets often have a significant class imbalance, with far fewer fraudulent transactions compared to legitimate ones. To handle this imbalance, oversampling techniques like SMOTE (Synthetic Minority Over-sampling Technique) are applied. This helps create a balanced dataset by generating synthetic samples for the minority class (fraudulent transactions).
+
+4. Normalization
+Normalization is the process of scaling the features to a standard range. This step ensures that all features contribute equally to the model's learning process and helps improve the model's performance. Common normalization techniques include Min-Max Scaling and Z-Score Normalization.
+
+5. Feature Selection
+Feature selection involves identifying the most relevant features that contribute to detecting fraudulent transactions. This step reduces the dimensionality of the data, removes irrelevant or redundant features, and improves the model's efficiency and accuracy.
+
+6. Machine Learning Based Classifiers
+With the preprocessed and balanced dataset, we apply machine learning algorithms to build the fraud detection model. Various classifiers such as decision trees, neural networks, or ensemble methods are trained and evaluated. These models learn patterns from the data to differentiate between legitimate and fraudulent transactions.
+
+7. Validation with Performance Measure
+Finally, the model's performance is validated using appropriate metrics such as accuracy, precision, recall, and F1-score. This step ensures that the model reliably detects fraudulent transactions while minimizing false positives and false negatives. Validation helps fine-tune the model for better accuracy and robustness.
+
+
+
