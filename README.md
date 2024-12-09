@@ -1,4 +1,4 @@
-![Logo](new_folder/Credit-Card-fraud-detection.png)
+![Logo](file:///C:/Users/mahes/Downloads/Credit-Card%20fraud%20detection.png)
 
 # Credit Card Fraud Detection: CardRaksha 💳
 
