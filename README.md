@@ -1,7 +1,7 @@
 
 ![Logo](https://github.com/mmahesh09/Credit-Card-Fraud-Detection/blob/3a0260e1b2123ca4b70b704110e74eb0744ad259/Credit-Card%20fraud%20detection.png)
 
-# Credit Card Fraud Detection: CardRaksha 💳
+# Credit Card Fraud Detection: SafePay 💳
 
 
 > "Credit card fraud is a global issue, with the total losses from credit and debit card fraud reaching $33 billion in 2022"
