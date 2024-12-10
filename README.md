@@ -8,10 +8,13 @@
 Credit card fraud causes huge financial losses worldwide. This project uses machine learning to identify fraudulent transactions by finding unusual patterns in the data. The model will classify transactions as either legitimate or fraudulent using methods like supervised learning and anomaly detection. Key challenges include dealing with unbalanced data, keeping up with new fraud methods, and making quick, real-time predictions. By using efficient algorithms, the goal is to reduce financial losses, improve accuracy, and detect fraud quickly to protect financial systems.
 
 ## Index
-[Features](##Features)
-[Dataset](##Dataset)
-[Tech Stack](##Tech)
-[Methodlogy](##Methodlogy)
+* What is credit card fraud ?
+* Features
+* Dataset
+* Methodology
+* Project Timeline
+* Conclusion
+* Contribution
 ## Features ♻️
 
 1. ### Real-time Fraud Detection
