@@ -19,7 +19,7 @@
 Credit card fraud causes huge financial losses worldwide. This project uses machine learning to identify fraudulent transactions by finding unusual patterns in the data. The model will classify transactions as either legitimate or fraudulent using methods like supervised learning and anomaly detection. Key challenges include dealing with unbalanced data, keeping up with new fraud methods, and making quick, real-time predictions. By using efficient algorithms, the goal is to reduce financial losses, improve accuracy, and detect fraud quickly to protect financial systems.
 
 ![image](https://github.com/user-attachments/assets/85decd33-55fe-48af-a313-f0360beaab50)
-## Key Credit Card Fraud Statistics (2024)
+## Key Credit Card Fraud Statistics:
 * **46% of global credit card fraud** happens in the US
 * Credit card fraud worldwide will reach **$43 billion by 2026**
 * US credit card fraud losses will eclipse **$12.5 billion by 2025**
