@@ -1,3 +1,4 @@
+
 ![Logo](https://github.com/mmahesh09/Credit-Card-Fraud-Detection/blob/3a0260e1b2123ca4b70b704110e74eb0744ad259/Credit-Card%20fraud%20detection.png)
 
 # Credit Card Fraud Detection: CardRaksha 💳
@@ -48,7 +49,7 @@ between features.
 
 **Language:** Python🐍
 
-**Libraries used:** Numpy, Pandas, Matplotlib, Scikit-learn
+**Libraries used**: Numpy, Pandas, Matplotlib, Sklearn
 
 
 ## Methodlogy
