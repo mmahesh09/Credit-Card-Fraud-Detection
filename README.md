@@ -18,6 +18,16 @@
  ## What is Credit Card Fraud ? 
 Credit card fraud causes huge financial losses worldwide. This project uses machine learning to identify fraudulent transactions by finding unusual patterns in the data. The model will classify transactions as either legitimate or fraudulent using methods like supervised learning and anomaly detection. Key challenges include dealing with unbalanced data, keeping up with new fraud methods, and making quick, real-time predictions. By using efficient algorithms, the goal is to reduce financial losses, improve accuracy, and detect fraud quickly to protect financial systems.
 
+![image](https://github.com/user-attachments/assets/85decd33-55fe-48af-a313-f0360beaab50)
+## Key Credit Card Fraud Statistics (2024)
+* **46% of global credit card fraud** happens in the US
+* Credit card fraud worldwide will reach **$43 billion by 2026**
+* US credit card fraud losses will eclipse **$12.5 billion by 2025**
+* 48% of consumers say it’s the merchant’s responsibility to protect them from fraud
+* 55% of fraudulent credit and debit card transactions are less than $100
+* Every **14 seconds**, a person in the US falls victim to identity theft
+* **150 million Americans** will be victims of credit card fraud this year
+*  **Approximately 85% of cybercrime complaints** relate to financial fraud, including card-related scams​ in India
 
 ## Features ♻️
 
@@ -77,5 +87,10 @@ With the preprocessed and balanced dataset, we apply machine learning algorithms
 7. Validation with Performance Measure
 Finally, the model's performance is validated using appropriate metrics such as accuracy, precision, recall, and F1-score. This step ensures that the model reliably detects fraudulent transactions while minimizing false positives and false negatives. Validation helps fine-tune the model for better accuracy and robustness.
 
+# Project Timeline ⏳
+Timeline of the Project
+| Title | Timeline | Description |
+| --- | --- | --- |
+| Problem Statement & Reasearch |
 
 
